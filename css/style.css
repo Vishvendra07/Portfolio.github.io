@@ -749,6 +749,8 @@ nav {
   display: flex;
   gap: 10px;
   width: 100%;
+  caret-color: var(--color-white);
+  color: var(--color-white);
 }
 
 .input-field {
@@ -759,7 +761,7 @@ nav {
   border-radius: 10px;
   padding-inline: 20px;
   outline: none;
-  caret-color: var(--color-white);
+  color: var(--color-white);
 }
 
 textarea {
