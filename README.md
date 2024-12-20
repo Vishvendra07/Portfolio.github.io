@@ -62,7 +62,7 @@ This is my personal project, but if you have any suggestions or improvements, fe
 
 For inquiries or feedback, you can reach me through:
 
-- **Email**: [vishvendra07@example.com](mailto:vishvendra07@example.com)
+- **Email**: [vishvendrareddyb@gmail.com](mailto:vishvendrareddyb@gmail.com)
 - **LinkedIn**: [Vishvendra Reddy Bhoomidi](https://www.linkedin.com/in/vishvendra-reddy-bhoomidi)
 
 ---
